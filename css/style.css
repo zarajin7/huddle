@@ -8,3 +8,17 @@
   width: 90%;
   margin: 0 auto;
 }
+
+.hero__first {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex-wrap: wrap;
+}
+
+.nav__top {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  display: flex;
+}

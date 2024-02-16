@@ -1,0 +1,7 @@
+@use "../utilities/mixins" as *;
+@use "../utilities/variables" as *;
+
+.hero__first{
+    @include flex(space-between,center);  
+    flex-wrap: wrap;
+}
